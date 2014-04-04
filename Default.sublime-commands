@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Color Scheme Selector: Select Color Scheme",
+        "command": "select_color_scheme"
+    }
+]
